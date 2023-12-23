@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1743],{7574:(e,t,l)=>{l.r(t),l.d(t,{default:()=>c});var a=l(7294),n=l(7961);function c(){return a.createElement(n.Z,null,a.createElement("h1",null,"My React page"),a.createElement("p",null,"This is a React page"),a.createElement("p",null,"Well, it could be if it werent static"))}}}]);
