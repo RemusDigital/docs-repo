@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrdm_docs=self.webpackChunkrdm_docs||[]).push([[3579],{2861:e=>{e.exports=JSON.parse('{"title":"Using the Fellowship Hall","slug":"/category/using-the-fellowship-hall","permalink":"/docs/category/using-the-fellowship-hall","navigation":{"next":{"title":"Welcome to the Fellowship Hall","permalink":"/docs/fh/fh-home"}}}')}}]);
